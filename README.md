@@ -6,12 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJmb2tzMG0xMmx3cWt4OXlucnM3bnZyNTYydDVjMTE1azZwdTM2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uzXtZhiCYpuSY/giphy.gif" width="350" alt="Samurai gif" />
-</div>
-
----
-
 ### 🥷 About Me
 
 - 👋 Hi, I am **Daffa** — walking the path of code like a modern samurai.  
@@ -34,7 +28,7 @@
 
 ---
 
-<div align="center">
+[<div align="center">
   <img src="https://i.pinimg.com/originals/72/4a/07/724a079019da7a54b9a31ecf03b3e5fa.gif" width="400" alt="Samurai coding" />
 </div>
 
