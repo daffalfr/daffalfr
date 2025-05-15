@@ -4,18 +4,17 @@
   </h1>
 </div>
 
+### 🧑‍🚀 About Me
 
-
-### 🥷 About Me
-
-- 👋 Hi, I am **Daffa**.  
-- 🎓 Student at **SMKS Jakarta Pusat 1**.  
-- ⚔️ Learning the **Laravel**.  
-- 🧠 Interested in becoming a **Software Developer** and **UI/UX Design**.  
+- 👋 Hello, I'm **Daffa**.  
+- 🎓 A student at **SMKS Jakarta Pusat 1**.  
+- ⚔️ Currently learning **Laravel** and continuously improving my web development skills.  
+- 💡 Passionate about becoming a **Software Developer** and a **UI/UX Designer**.  
+- 📖 A firm believer in continuous learning and the philosophy of mastery, just like a samurai hones his blade.
 
 ---
 
-### 🛠️ My Code Katana (Tech Stack)
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -27,16 +26,35 @@
 
 ---
 
-<div align="center">
-  <p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhkNG9mcG4zd2QzN28yN3pjeTRpZjhrOGtrczVhN3htbGg4MmJmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif" alt="Samurai coding"/>
-  </p>
-</div>
+### 🏯 Connect with the Ronin
+
+<p align="center">
+  <a href="https://github.com/daffalfr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🏯 Connect with the Ronin
+### 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Github-daffalfr-%23000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhkNG9mcG4zd2QzN28yN3pjeTRpZjhrOGtrczVhN3htbGg4MmJmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif" width="400" alt="Samurai coding gif"/>
 </div>
+
