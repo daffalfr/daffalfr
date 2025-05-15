@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&duration=3000&color=8B0000&center=true&vCenter=true&width=600&lines=Hey..+I'm+Daffa;Welcome+to+my+GitHub;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello..+I'm+Daffa;Welcome+to+my+GitHub" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -35,10 +35,10 @@
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+  <a href="https://www.instagram.com/daffalfr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:alfaridzidaffa49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -48,23 +48,16 @@
 
 ### 📂 Projects
 
-- 🔗 [Project 1](https://github.com/your-username/project-1) – Short description of project 1.
+- 🔗 [TIKET!NG](https://github.com/daffalfr/LSP) – E-Ticketing website for airplane.
 - 🎨 [Project 2](https://github.com/your-username/project-2) – Short description of project 2.
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhkNG9mcG4zd2QzN28yN3pjeTRpZjhrOGtrczVhN3htbGg4MmJmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif" width="400" alt="Samurai coding gif"/>
-</div>
 
 ---
 
 ### 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://raw.githubusercontent.com/daffalfr/daffalfr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=github_dark&hide_border=true&bg_color=1e1e1e" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=black-ice&hide_border=true" width="48%" />
 </p>
 
 
