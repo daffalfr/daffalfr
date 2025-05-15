@@ -11,7 +11,8 @@
   
 <div align="center">
     <p>
-<div class="tenor-gif-embed" data-postid="15223307355906712214" data-share-method="host" data-aspect-ratio="1.49351" data-width="100%"><a href="https://tenor.com/view/brandon-james-greer-darth-vader-sprite-pixel-star-wars-gif-15223307355906712214">Brandon James Greer Darth Vader Sticker</a>from <a href="https://tenor.com/search/brandon+james+greer-stickers">Brandon James Greer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>    </p>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhMDE3b3k3MDhhOWVzdDYwcjZkcTBnOWN5Z244eGxrd3F3ZzhrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif"></img>
+    </p>
 </div>
 
 
