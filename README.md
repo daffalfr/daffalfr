@@ -64,10 +64,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=tokyonight&hide_border=true" width="47%" />
-  ![Snake animation]
-  (https://github.com/daffalfr/daffalfr/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/daffalfr/daffalfr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </p>
 
----
 
 
