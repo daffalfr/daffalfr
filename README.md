@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFhMDE3b3k3MDhhOWVzdDYwcjZkcTBnOWN5Z244eGxrd3F3ZzhrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10eMCO0c7U4tBm/giphy.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
