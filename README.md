@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/34/1e/67/341e6756f947bd1cf9a359c2039b5426.gif" width="350" alt="Samurai gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJmb2tzMG0xMmx3cWt4OXlucnM3bnZyNTYydDVjMTE1azZwdTM2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uzXtZhiCYpuSY/giphy.gif" width="350" alt="Samurai gif" />
 </div>
 
 ---
