@@ -11,7 +11,7 @@
   
 <div align="center">
     <p>
-        <img src="https://tenor.com/siI4w7qvZ3a.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://tenor.com/view/brandon-james-greer-darth-vader-sprite-pixel-star-wars-gif-15223307355906712214" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
