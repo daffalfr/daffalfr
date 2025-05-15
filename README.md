@@ -28,7 +28,7 @@
 
 ---
 
-[<div align="center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/72/4a/07/724a079019da7a54b9a31ecf03b3e5fa.gif" width="400" alt="Samurai coding" />
 </div>
 
