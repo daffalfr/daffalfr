@@ -45,16 +45,28 @@
 
 ---
 
-### 💻 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+### 📂 Projects
+
+- 🔗 [Project 1](https://github.com/your-username/project-1) – Short description of project 1.
+- 🎨 [Project 2](https://github.com/your-username/project-2) – Short description of project 2.
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhkNG9mcG4zd2QzN28yN3pjeTRpZjhrOGtrczVhN3htbGg4MmJmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26FL0ydLDEcARWY0g/giphy.gif" width="400" alt="Samurai coding gif"/>
 </div>
+
+---
+
+### 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=tokyonight&hide_border=true" width="47%" />
+  ![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+</p>
+
+---
+
 
