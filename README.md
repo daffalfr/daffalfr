@@ -1,10 +1,10 @@
+---
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&duration=3000&color=8B0000&center=true&vCenter=true&width=600&lines=Hey..+I'm+Daffa;Welcome+to+my+GitHub;" alt="Typing SVG" />
   </h1>
 </div>
 
----
 
 ---
 
