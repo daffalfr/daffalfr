@@ -11,7 +11,7 @@
   
 <div align="center">
     <p>
-        <img src="https://tenor.com/bYH2b.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://tenor.com/siI4w7qvZ3a.gif" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
