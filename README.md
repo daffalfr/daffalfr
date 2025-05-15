@@ -14,7 +14,7 @@
 - 🧠 Interested in becoming a **Software Developer** and mastering **UI/UX Design**.  
 - 📜 “Perceive that which cannot be seen with the eye.” — *Miyamoto Musashi*
 
---
+---
 
 ### 🛠️ My Code Katana (Tech Stack)
 
