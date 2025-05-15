@@ -4,6 +4,9 @@
   </h1>
 </div>
 
+---
+
+---
 
 ### 🥷 About Me
 
@@ -13,6 +16,7 @@
 - 🧠 Interested in becoming a **Software Developer** and mastering **UI/UX Design**.  
 - 📜 “Perceive that which cannot be seen with the eye.” — *Miyamoto Musashi*
 
+---
 
 ### 🛠️ My Code Katana (Tech Stack)
 
@@ -24,6 +28,7 @@
   <img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/72/4a/07/724a079019da7a54b9a31ecf03b3e5fa.gif" width="400" alt="Samurai coding" />
