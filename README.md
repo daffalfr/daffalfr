@@ -64,7 +64,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daffalfr&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=daffalfr&theme=tokyonight&hide_border=true" width="47%" />
-  ![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+  ![Snake animation]
+  (https://github.com/daffalfr/daffalfr/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
