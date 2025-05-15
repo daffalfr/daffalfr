@@ -8,6 +8,7 @@
 - 🔭 I’m currently student at SMKS Jakarta Pusat 1.
 - 🌱 I’m currently learning Laravel.
 - 👀 I'm interested in Software Developer and UI/UX Design.
+  
 <div align="center">
     <p>
         <img src="https://tenor.com/bYH2b.gif" alt="Descriptive Text for the GIF" />
