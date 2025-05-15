@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/34/1e/67/341e6756f947bd1cf9a359c2039b5426.gif" width="350" alt="Samurai slash" />
+  <img src="https://i.pinimg.com/originals/34/1e/67/341e6756f947bd1cf9a359c2039b5426.gif" width="350" alt="Samurai gif" />
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 - 👋 Hi, I am **Daffa** — walking the path of code like a modern samurai.  
 - 🎓 Student at **SMKS Jakarta Pusat 1**.  
-- ⚔️ Learning the Laravel blade technique.  
+- ⚔️ Learning the **Laravel** blade technique.  
 - 🧠 Interested in becoming a **Software Developer** and mastering **UI/UX Design**.  
 - 📜 “Perceive that which cannot be seen with the eye.” — *Miyamoto Musashi*
 
