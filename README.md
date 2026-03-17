@@ -7,7 +7,7 @@
 ### 🧑‍🚀 About Me
 
 - 👋 Hello, I'm **Daffa**.  
-- 🎓 A student at **SMKS Jakarta Pusat 1**.  
+- 🎓 A student at **Universitas Negeri Jakarta**.  
 - ⚔️ Currently learning **Laravel** and continuously improving my web development skills.  
 - 💡 Passionate about becoming a **Software Developer** and a **UI/UX Designer**.  
 - 📖 A firm believer in continuous learning and the philosophy of mastery, just like a samurai hones his blade.
